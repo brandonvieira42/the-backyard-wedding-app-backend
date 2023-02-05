@@ -1,7 +1,7 @@
 
--- DROP DATABASE IF EXISTS backyardwedding_db;
--- CREATE DATABASE backyardwedding_db;
--- USE backyardwedding_db;
+ DROP DATABASE IF EXISTS backyardwedding_db;
+ CREATE DATABASE backyardwedding_db;
+ USE backyardwedding_db;
 
 CREATE TABLE customer (
   customer_id INT AUTO_INCREMENT,
